@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>images/back.jpg</file>
+        <file>images/karpuz.png</file>
+        <file>images/kesikkarpuz.png</file>
+    </qresource>
+</RCC>
